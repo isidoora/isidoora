@@ -1,22 +1,25 @@
 ### Hi there 👋, my name is Isidora
-#### A passionate BI/data analyst from Belgrade
+#### A passionate BI/Data Analyst from Belgrade
 ![A passionate BI/data analyst from Belgrade](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hi there!👋
+I'm Isidora, aspiring to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into data analysis, data science, and data engineering, even though my formal education didn't exactly lead me down the computer science or statistics path. But guess what? I'm not letting that stop me!
 
-Hi there! 👋 I'm Nilay Mukhopadhyay, as a Data Analyst/Business Intelligence (BI) Analyst, I specialize in creating interactive dashboards, automating reports, and optimizing project efficiency. I leverage tools such as Power BI, SQL, Excel, Amazon Redshift, Azure Data Factory (ADF), and Microsoft Fabric. My role involves supporting data-driven decision-making and enhancing business outcomes for various departments, including Audit, HR, and Management.
-
-With a BA (Bachelor of Arts) degree, I have a strong foundation in analytical thinking, problem-solving, and communication. I am passionate about learning new technologies and tools to enhance my data visualization and analysis capabilities. I am dedicated to collaborating effectively with cross-functional teams and delivering high-quality results that meet the needs and expectations of stakeholders.
+<!-- I have a strong foundation in analytical thinking, problem-solving, and communication. I am passionate about learning new technologies and tools to enhance my data visualization and analysis capabilities. I am dedicated to collaborating effectively with cross-functional teams and delivering high-quality results that meet the needs and expectations of stakeholders.
 95
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Power BI
-- 📫 How to reach me: isidorapuletic@gmail.com
+- 📫 How to reach me: isidorapuletic@gmail.com -->
 
-## 🛠 Skills: 
+## 💻 Skills: 
 - Excel
 - MySQL
-- Tableau
 - Python
+- Power BI
+- Tableau
+
+## 🛠 Competencies
+Exploratory Data Analysis, Data Wrangling, Statistical Analysis, Data Visualization, ETL/ELT, RDBMS Machine Learning
 
 ## 📊 My Top3 Projects
 1. My Fitness Tracker
